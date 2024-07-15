@@ -1,6 +1,8 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apetouhoff/Binder_MyBinder-Assisgment.git/py37_r353)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apetouhoff/Python-Machine-Learning.git/py37_r353)
+
+https://mybinder.org/v2/gh/apetouhoff/Python-Machine-Learning.git/py37_r353
 
 A Binder-compatible repo with an `environment.yml` file.
 
