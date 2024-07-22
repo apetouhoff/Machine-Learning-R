@@ -6,6 +6,10 @@ https://mybinder.org/v2/gh/apetouhoff/Python-Machine-Learning.git/py37_r353
 
 A Binder-compatible repo with an `environment.yml` file.
 
+This project is adapted from the tuotrial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/Links to an external site. 
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
