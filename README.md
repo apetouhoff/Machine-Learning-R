@@ -1,9 +1,8 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apetouhoff/Python-Machine-Learning.git/py37_r353)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/apetouhoff/Machine-Learning-R.git/py37_r353)
 
-https://mybinder.org/v2/gh/apetouhoff/Python-Machine-Learning.git/py37_r353
-
+https://mybinder.org/v2/gh/apetouhoff/Machine-Learning-R.git/py37_r353
 A Binder-compatible repo with an `environment.yml` file.
 
 This project is adapted from the tuotrial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
